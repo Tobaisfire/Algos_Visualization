@@ -20,4 +20,7 @@ I've created a Python application using Pygame that visualizes four classic sort
 
 But this isn't just any visualization - it's an interactive, color-coded experience that helps you understand exactly what's happening at each step of the sorting process.
 
-[![Watch the video]](https://youtu.be/BMIOxzfCp-8)
+![Screenshot 2024-09-13 132450](https://github.com/user-attachments/assets/c3cb4a33-dd2b-4cd0-a123-3153b66b0799)
+
+
+[[Watch the video](https://youtu.be/BMIOxzfCp-8)
